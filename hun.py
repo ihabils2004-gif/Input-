@@ -20,7 +20,7 @@ FFMPEG_BIN = "./tiny/ffmpeg"
 # 🔥 filter.txt
 FILTER_FILE = "./filter.txt"
 # 🔥 GitHub repo (✅ تم التعديل هنا)
-REPO = "ihabusdt-dev/Stages"
+REPO = "ihabils2004-gif/Stages"
 # 🔥 temp
 SHM = "/dev/shm" if os.path.exists("/dev/shm") else "/tmp"
 CURRENT = f"{SHM}/current.wav"
